@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 6b012be3cf3c4ab408184ebd31fad156
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back_blue_line
+    100002: front_blue_line
+    100004: head
+    100006: L_arm
+    100008: leg_LB
+    100010: leg_LF
+    100012: leg_LM
+    100014: leg_RB
+    100016: leg_RF
+    100018: leg_RM
+    100020: R_arm
+    100022: R_arm.001
+    100024: //RootNode
+    400000: back_blue_line
+    400002: front_blue_line
+    400004: head
+    400006: L_arm
+    400008: leg_LB
+    400010: leg_LF
+    400012: leg_LM
+    400014: leg_RB
+    400016: leg_RF
+    400018: leg_RM
+    400020: R_arm
+    400022: R_arm.001
+    400024: //RootNode
+    2100000: body
+    2100002: kerangka.001
+    2100004: DNA
+    2100006: kulitKepala
+    2300000: back_blue_line
+    2300002: front_blue_line
+    2300004: head
+    2300006: L_arm
+    2300008: leg_LB
+    2300010: leg_LF
+    2300012: leg_LM
+    2300014: leg_RB
+    2300016: leg_RF
+    2300018: leg_RM
+    2300020: R_arm
+    2300022: R_arm.001
+    2300024: //RootNode
+    3300000: back_blue_line
+    3300002: front_blue_line
+    3300004: head
+    3300006: L_arm
+    3300008: leg_LB
+    3300010: leg_LF
+    3300012: leg_LM
+    3300014: leg_RB
+    3300016: leg_RF
+    3300018: leg_RM
+    3300020: R_arm
+    3300022: R_arm.001
+    3300024: //RootNode
+    4300000: body
+    4300002: leg_RM
+    4300004: leg_RB
+    4300006: leg_LM
+    4300008: leg_LB
+    4300010: back_blue_line
+    4300012: R_arm.001
+    4300014: R_arm
+    4300016: L_arm
+    4300018: front_blue_line
+    4300020: head
+    4300022: leg_LF
+    4300024: leg_RF
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DNA
+    second: {fileID: 2100000, guid: 04b192b527685064a85303ff10a3ed42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: 24c5ea0872c2d0240ba55a378f89dbf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kerangka.001
+    second: {fileID: 2100000, guid: f74d5e979bfa74f4ab08dfa1543c61e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kulitKepala
+    second: {fileID: 2100000, guid: bbfd769ed747def4692089a4ea8ea862, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

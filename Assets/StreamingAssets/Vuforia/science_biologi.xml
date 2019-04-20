@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="xample" size="8000.000000 10666.666992" />
+    <ImageTarget name="bakteriofag" size="1.000000 0.817869" />
+    <ImageTarget name="euglena-vector" size="800.000000 559.601990" />
+    <ImageTarget name="virusharpes" size="800.000000 531.208496" />
+    <ImageTarget name="jamur-tiram-" size="800.000000 631.250000" />
+    <ImageTarget name="jamur-morel" size="800.000000 449.230774" />
+    <ImageTarget name="jamur_resula" size="800.000000 600.975586" />
+    <ImageTarget name="chantarela" size="800.000000 938.181824" />
+    <ImageTarget name="colon_bacillus" size="800.000000 634.920654" />
+  </Tracking>
+</QCARConfig>
